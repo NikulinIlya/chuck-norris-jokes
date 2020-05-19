@@ -1,0 +1,13 @@
+{
+    "name": "nikulinilya/chuck-norris-jokes",
+    "description": "Create random Chuck Norris jokes, based on mpociot/chuck-norris-jokes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NikulinIlya",
+            "email": "ilia.nikulin@gmail.com"
+        }
+    ],
+    "require": {}
+}
