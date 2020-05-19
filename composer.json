@@ -9,5 +9,10 @@
             "email": "ilia.nikulin@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nikulinilya\\ChuckNorrisJokes\\": "src/"
+        }
+    }
 }
