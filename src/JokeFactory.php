@@ -4,11 +4,17 @@ namespace Nikulinilya\ChuckNorrisJokes;
 
 class JokeFactory
 {
-    protected $jokes = [];
+    protected $jokes = [
+        'Chuck Norris\' tears cure cancer. Too bad he has never cried.',
+        'Chuck Norris counted to infinity... Twice.',
+        'If you can see Chuck Norris, he can see you. If you can\'t see Chuck Norris you may be only seconds away from death.'
+    ];
 
-    public function __construct(array $jokes)
+    public function __construct(array $jokes = null)
     {
-        $this->jokes = $jokes;
+        if ($jokes) {
+            $this->jokes = $jokes;
+        }
     }
 
     public function getRandomJoke()
