@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- Install dev orchestra/testbench
+- ChuckNorrisJokesServiceProvider
+- Facades/ChuckNorris
+- laravel extra to composer.json
+
+## [1.1.0] - 2020-05-24
+### Added
 - Install guzzlehttp/guzzle
 
 ### Changed
@@ -19,5 +26,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release
 
 <!-- Linked versions -->
-[Unreleased]: https://github.com/NikulinIlya/chuck-norris-jokes/compare/1.0.0...HEAD
-[1.0.0]: https://github.com/NikulinIlya/chuck-norris-jokesreleases/tag/1.0.0
+[Unreleased]: https://github.com/NikulinIlya/chuck-norris-jokes/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/NikulinIlya/chuck-norris-jokes/releases/tag/1.1.0
+[1.0.0]: https://github.com/NikulinIlya/chuck-norris-jokes/releases/tag/1.0.0
