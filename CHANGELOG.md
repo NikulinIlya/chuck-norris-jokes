@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Facades/ChuckNorris
 - laravel extra to composer.json
 - Console/ChuckNorrisJoke command
+- Http/Controllers/ChuckNorrisController, Route chuck-norris to ChuckNorrisJokesServiceProvider@boot
+- LaravelTest the_route_can_be_accessed test method
 
 ## [1.1.0] - 2020-05-24
 ### Added
