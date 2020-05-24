@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Install guzzlehttp/guzzle
 
+### Changed
+- JokeFactoryTest it_returns_a_random_joke by adding mock response
+- JokeFactory by using GuzzleHttp\Client to get jokes with API requests
+
+### Removed
+- it_returns_a_predefined_joke test
+
 ## [1.0.0] - 2020-05-21
 - Initial release
 
