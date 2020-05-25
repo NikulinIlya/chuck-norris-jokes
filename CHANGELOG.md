@@ -15,6 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - LaravelTest the_route_can_be_accessed test method
 - resources/vies/joke.blade.php
 - config/chuck-norris.php
+- Models/Joke
+- database/migrations/CreateJokesTable
 
 ## [1.1.0] - 2020-05-24
 ### Added
